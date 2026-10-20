@@ -55,10 +55,3 @@ More projects: [TicketSale](https://github.com/furkanersoy/TicketSale) · [Tavla
 ## Languages
 
 Turkish — Native · English — Advanced · German — Beginner
-
-## GitHub
-
-<div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=furkanersoy&show_icons=true&theme=github_dark&hide_border=true" alt="Furkan's GitHub statistics">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=furkanersoy&layout=compact&theme=github_dark&hide_border=true" alt="Most used languages">
-</div>
