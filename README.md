@@ -36,7 +36,7 @@ More projects: [TicketSale](https://github.com/furkanersoy/TicketSale) · [Tavla
   Supported cybersecurity assessment and certification-related work, including vulnerability assessment and security testing activities.
 - **Full-Stack Development Intern — Tekpark Bilişim**  
   Contributed to web application development across frontend and backend tasks.
-- **Cybersecurity & Software Intern — Energy Systems** · 2026  
+- **Cybersecurity & Software Intern —  PEM Enerji** · 2026  
   Contributed to authorized application, infrastructure, and IT/OT security assessments; ISO/IEC 27001 documentation; and backend features for energy-management and business applications. Also worked on retesting, reporting, data quality, and time-based energy pricing.
 
 ## Education
