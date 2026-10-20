@@ -1,7 +1,7 @@
 [English](README.md) | [Türkçe](README.tr.md)
 
 <div align="center">
-  <a href="https://github.com/furkanersoy/FurkanErsoyPortfolio"><img src="https://img.shields.io/badge/Portfolyo-Görüntüle-2563EB?style=for-the-badge" alt="Portfolyo"></a>
+  <a href="https://furkanersoy.github.io/FurkanErsoyPortfolio/"><img src="https://img.shields.io/badge/Portfolyo-Görüntüle-2563EB?style=for-the-badge" alt="Portfolyo"></a>
   <a href="mailto:furkanersoy03@gmail.com"><img src="https://img.shields.io/badge/E--posta-İletişim-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="E-posta"></a>
 </div>
 
@@ -28,7 +28,7 @@ Uygulama güvenliği, backend geliştirme, veri analizi ve açıklanabilir makin
 | [Spotify Şarkı Popülerliği Tahmini](https://github.com/furkanersoy/Track_Popularite_Prediction) | Şarkı, sanatçı ve albüm bilgileriyle regresyon modellerini karşılaştıran ve hiperparametre ayarı yapan çalışma. | Python, pandas, scikit-learn |
 | [CO₂ Emisyon Analizi](https://github.com/furkanersoy/Co2_Emission_Analysis) | Enerji tüketimi ve emisyon verileri üzerinde Spark SQL toplulaştırmaları, görselleştirmeler ve sınıflandırma deneyi içeren PySpark analizi. | Python, PySpark, Spark SQL |
 
-Diğer projeler: [TicketSale](https://github.com/furkanersoy/TicketSale) · [TavlaGame](https://github.com/furkanersoy/TavlaGame) · [MovieGuideApp](https://github.com/furkanersoy/MovieGuideApp) · [Portfolyo](https://github.com/furkanersoy/FurkanErsoyPortfolio)
+Diğer projeler: [TicketSale](https://github.com/furkanersoy/TicketSale) · [TavlaGame](https://github.com/furkanersoy/TavlaGame) · [MovieGuideApp](https://github.com/furkanersoy/MovieGuideApp) · [Portfolyo](https://furkanersoy.github.io/FurkanErsoyPortfolio/)
 
 ## Deneyim
 
