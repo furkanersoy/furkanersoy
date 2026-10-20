@@ -1,7 +1,7 @@
 [English](README.md) | [Türkçe](README.tr.md)
 
 <div align="center">
-  <a href="https://github.com/furkanersoy/FurkanErsoyPortfolio"><img src="https://img.shields.io/badge/Portfolio-Visit-2563EB?style=for-the-badge" alt="Portfolio"></a>
+  <a href="https://furkanersoy.github.io/FurkanErsoyPortfolio/"><img src="https://img.shields.io/badge/Portfolio-Visit-2563EB?style=for-the-badge" alt="Portfolio"></a>
   <a href="mailto:furkanersoy03@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 </div>
 
@@ -28,7 +28,7 @@ I build software and security projects across application security, backend deve
 | [Spotify Track Popularity Prediction](https://github.com/furkanersoy/Track_Popularite_Prediction) | Regression study using track, artist, and album metadata; compares models and tunes hyperparameters. | Python, pandas, scikit-learn |
 | [CO₂ Emission Analysis](https://github.com/furkanersoy/Co2_Emission_Analysis) | PySpark analysis of energy consumption and emissions, with Spark SQL aggregations, visualizations, and a classification experiment. | Python, PySpark, Spark SQL |
 
-More projects: [TicketSale](https://github.com/furkanersoy/TicketSale) · [TavlaGame](https://github.com/furkanersoy/TavlaGame) · [MovieGuideApp](https://github.com/furkanersoy/MovieGuideApp) · [Portfolio](https://github.com/furkanersoy/FurkanErsoyPortfolio)
+More projects: [TicketSale](https://github.com/furkanersoy/TicketSale) · [TavlaGame](https://github.com/furkanersoy/TavlaGame) · [MovieGuideApp](https://github.com/furkanersoy/MovieGuideApp) · [Portfolio](https://furkanersoy.github.io/FurkanErsoyPortfolio/)
 
 ## Experience
 
