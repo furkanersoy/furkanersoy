@@ -55,10 +55,3 @@ Diğer projeler: [TicketSale](https://github.com/furkanersoy/TicketSale) · [Tav
 ## Diller
 
 Türkçe — Ana dil · İngilizce — İleri seviye · Almanca — Başlangıç
-
-## GitHub
-
-<div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=furkanersoy&show_icons=true&theme=github_dark&hide_border=true" alt="Furkan'ın GitHub istatistikleri">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=furkanersoy&layout=compact&theme=github_dark&hide_border=true" alt="En çok kullanılan diller">
-</div>
