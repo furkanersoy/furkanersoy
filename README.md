@@ -7,7 +7,7 @@
 
 # Hi, I'm Furkan Ersoy 👋
 
-### Computer Engineering Graduate | Application Security | Backend Development | Explainable AI
+### Computer Engineering Graduate | Application Security | Backend Development 
 
 I build software and security projects across application security, backend development, data analysis, and explainable machine learning. I enjoy turning technical findings into clear, testable improvements.
 
