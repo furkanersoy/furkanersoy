@@ -23,6 +23,7 @@ Uygulama güvenliği, backend geliştirme, veri analizi ve açıklanabilir makin
 | Proje | Açıklama | Teknolojiler |
 |---|---|---|
 | [ScopeGuard](https://github.com/furkanersoy/ScopeGuard) | API yetkilendirme kontrolleri, kaynak/yapılandırma incelemesi ve gizli bilgi taraması yapan yerel CLI aracı. Çevrimdışı planlama ve yerel JSON, Markdown, SARIF raporları sunar. | Python, PyYAML |
+| [NinjaGame](https://github.com/furkanersoy/NinjaGame) | Özel harita editörü, düzenlenebilir JSON haritaları ve masaüstü uygulama oluşturma akışı içeren bölüm tabanlı 2D platform oyunu. | Python, Pygame |
 | Göğüs Röntgeni Sınıflandırması için Açıklanabilir Yapay Zekâ | ChestMNIST üzerinde çok etiketli sınıflandırma yapan ekip bitirme projesi. Grad-CAM ve SHAP açıklamaları Streamlit arayüzünde sunulur. Akademik prototiptir; klinik tanı sistemi değildir. | Python, CNN, Grad-CAM, SHAP, Streamlit |
 | [PocketKanban](https://github.com/furkanersoy/PocketKanban) | Panoları, sütunları ve kartları yöneten; Entity Framework Core ve veritabanı migration'ları kullanan REST API. | C#, ASP.NET Core, EF Core |
 | [Spotify Şarkı Popülerliği Tahmini](https://github.com/furkanersoy/Track_Popularite_Prediction) | Şarkı, sanatçı ve albüm bilgileriyle regresyon modellerini karşılaştıran ve hiperparametre ayarı yapan çalışma. | Python, pandas, scikit-learn |
