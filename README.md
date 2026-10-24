@@ -23,6 +23,7 @@ I build software and security projects across application security, backend deve
 | Project | What it does | Stack |
 |---|---|---|
 | [ScopeGuard](https://github.com/furkanersoy/ScopeGuard) | Local-first CLI for API authorization checks, source/configuration inspection, and secret detection. Includes offline planning and local JSON, Markdown, and SARIF reports. | Python, PyYAML |
+| [NinjaGame](https://github.com/furkanersoy/NinjaGame) | Level-based 2D platform game with a custom map editor, editable JSON maps, and a desktop build workflow. | Python, Pygame |
 | Explainable AI for Chest X-ray Classification | Team capstone using ChestMNIST for multi-label classification, with Grad-CAM and SHAP explanations presented in a Streamlit interface. Academic prototype, not a clinical diagnostic system. | Python, CNN, Grad-CAM, SHAP, Streamlit |
 | [PocketKanban](https://github.com/furkanersoy/PocketKanban) | REST API for managing boards, columns, and cards, using Entity Framework Core and database migrations. | C#, ASP.NET Core, EF Core |
 | [Spotify Track Popularity Prediction](https://github.com/furkanersoy/Track_Popularite_Prediction) | Regression study using track, artist, and album metadata; compares models and tunes hyperparameters. | Python, pandas, scikit-learn |
